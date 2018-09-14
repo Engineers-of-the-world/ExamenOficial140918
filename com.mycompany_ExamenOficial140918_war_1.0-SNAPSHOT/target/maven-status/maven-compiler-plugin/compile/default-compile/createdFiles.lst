@@ -1,0 +1,5 @@
+com\mycompany\controllerimpl\ProductoCtrlImpl.class
+com\mycompany\dao\ProductoDAO.class
+com\mycompany\configbd\Conexionbd.class
+com\mycompany\controller\ProductoCtrl.class
+com\mycompany\modell\Producto.class
